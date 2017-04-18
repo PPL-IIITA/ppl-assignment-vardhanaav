@@ -4,6 +4,7 @@ cd ppl-assignment-vardhanaav
 cd Q11
 javac *.java
 java q11
+<Enter any input other than an integer>
 javadoc *.java
 cat log.txt log1.txt log2.txt
 
