@@ -128,6 +128,7 @@ public class q2 extends q1{
 		Girls g[] = new Girls[ng];
 		Happyfy happinessarray[] = new Happyfy[ng];	
 		choice = (int)(Math.random()*10)%2; //0 for q1, 1 for q5
+		System.out.println("Enter the value of number of happiest couples to be found");
 		try {
 			num_happ_coup = sc.nextInt();
 		} catch (InputMismatchException e) {
