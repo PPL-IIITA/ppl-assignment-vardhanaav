@@ -1,0 +1,13 @@
+Rahul,7,100,8,6,miser
+
+Sanjay,4,80,5,6,generous
+
+Neetesh,5,0,5,5,geek
+
+Jolly,2,30,4,5,miser
+
+Laigu,7,60,5,4,geek
+
+Littu,10,80,9,7,geek
+
+Joyal,80,80,80,80,miser

@@ -1,0 +1,9 @@
+Rekha,1,1,1,most rich,desparate
+
+Hema,3,3,3,most rich,normal
+
+Pooja,5,5,5,most intelligent,choosy
+
+Aarti,6,6,6,most attractive,normal
+
+Praya,8,8,8,most intelligent,normal
