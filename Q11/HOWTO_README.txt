@@ -1,1 +1,3 @@
-lkdsnlfk
+
+javac *.java
+javadoc *.java
